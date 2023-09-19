@@ -35,7 +35,7 @@ buat repository pada github organization kalian dengan format: `Basic-Programmin
    python3 -m unittest test_main.py -v
    ```
 5. Screenshoot terminal hasil perintah nomor 4.
-   ![contoh](./running_test/problem-1.png)
+   ![contoh](./running_test/problem-x-[example].png)
 
 6. Push project ini dan hasil screenshoot ke repo yang telah dibuat pada github organization.
 7. Selamat Mengerjakan!!! :grin:
