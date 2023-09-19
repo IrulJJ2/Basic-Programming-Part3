@@ -1,5 +1,6 @@
 def palindrome(input_string):
-    # your code here
+    return 'error response'
+
 
 if __name__ == '__main__':
     print(palindrome("civic")) # True
