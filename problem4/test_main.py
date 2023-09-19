@@ -1,7 +1,7 @@
 import unittest
 from main import palindrome
 
-class TestPrimeNumber(unittest.TestCase):
+class TestPalindrome(unittest.TestCase):
     def test_palindrome_civic(self):
         result = palindrome("civic")
         self.assertEqual(result, True, msg="'civic' is a palindrome, so it should return True")
