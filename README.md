@@ -3,7 +3,7 @@
 clone project ini dengan cara
 
 ```
-git clone https://github.com/Immersive-DataEngineer-Resource/Basic-Programming-Part2.git
+git clone https://github.com/Immersive-DataEngineer-Resource/Basic-Programming-Part3.git
 ```
 
 setelah clone selesai, jalankan perintah `cd Basic-Programming-Part2` --> **HAL INI DILAKUKAN 1x saja**
