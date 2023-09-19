@@ -1,10 +1,7 @@
-def konversi_nilai(nilai):
-    # your code here
-    if nilai >= 80:
-        return "A"
-    elif nilai >= 70:
-        return "B+"
-    return ''
+# input
+student_score = 80
 
-if __name__ == '__main__':
-    print(konversi_nilai(70))
+# Process: Your Solution Code Here
+
+
+# Output "Nilai A"
