@@ -1,5 +1,9 @@
 def palindrome(input_string):
-    return 'error response'
+    length = len(input_string)
+    for x in range (0,length//2):
+        if (input_string[x] != input_string[length-x-1]):
+            return False   
+        return True
 
 
 if __name__ == '__main__':

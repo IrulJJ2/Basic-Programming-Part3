@@ -1,6 +1,8 @@
 def pangkat(base, pangkat):
-    # your code here
-    return 'error response'
+    hasil = 1
+    for i in range (pangkat):
+        hasil = hasil * base
+    return hasil
 
 
 if __name__ == '__main__':
